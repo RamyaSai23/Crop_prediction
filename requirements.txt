@@ -1,7 +1,6 @@
-scikit-learn
-pandas
-numpy
-matplotlib 
-pickle
-seaborn
-streamlit
+scikit-learn == 1.6.1
+pandas==2.2.3
+numpy==2.2.3
+matplotlib-inline==0.1.7
+pickleshare==0.7.5
+streamlit==1.43.2
